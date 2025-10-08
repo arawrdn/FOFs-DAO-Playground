@@ -58,4 +58,3 @@ Runs the DAO Playground locally. Open `http://localhost:3000` to interact.
 - **NFT Collection**: 0x049ee6d2249c242611e1b704f0babaa8157d69eb  
 - **GitHub Repo**: https://github.com/arawrdn/fofs-dao-playground  
 - **WalletConnect Project ID**: 180a7164cfa9e5388daf1160841f65a0  
-- This is an **experimental educational project** (not production-ready)
